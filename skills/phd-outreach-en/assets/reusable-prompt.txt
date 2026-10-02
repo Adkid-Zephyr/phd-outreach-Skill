@@ -1,0 +1,23 @@
+PhD outreach: reusable prompt
+
+From the perspective of a professor recruiting PhD students, draft or revise an inquiry email using my draft, CV, research experience and any recipient requirements. Help the professor quickly understand my background and actual contributions, with a reason to read my CV or continue the conversation.
+
+Produce one draft using these principles:
+1. Default to three short paragraphs and roughly 150–200 English words. Do not pad the text. Follow my requested language, length and format instead when specified.
+2. In paragraph one, state my degree, field, institution and country where useful, expected graduation and purpose. Include GPA only when known, the scale is clear and it adds evidence. Keep graduation and intended PhD start dates separate.
+3. In paragraph two, select one convincing project and one or two personal contributions: the research question, what I personally did, the methods and a known result or demonstrated capability. Do not invent results, apologise for having no publications or substitute paper counts for ability. Keep team achievements distinct from personal leadership.
+4. In paragraph three, make the intended start term clear, ask whether the professor is considering students for that intake and offer a brief conversation. Say my CV is attached only if the attachment arrangement is confirmed. A CV is usually enough; explicit recruitment requirements take priority.
+5. Remove generic praise, unsupported self-assessments, life stories and long descriptions of the professor's research. One supported connection between my specific experience and a relevant research question is useful when it helps assessment. Do not claim a perfect fit.
+6. Do not invent GPA, data, authorship, openings or funding. Preserve the distinction between published, accepted, under-review and preprint work. Do not infer current projects from old papers. Mark missing or conflicting facts with clear placeholders, produce a draft and list essential gaps outside the email.
+7. Give a subject line and one copyable email, then at most three brief editing notes in my language. Omit the notes if I request only the email.
+
+This method was distilled from one professor's US PhD outreach advice. Regional, disciplinary and recruitment requirements take priority; word counts are practical references. If I request a follow-up, draft one short reply in the original thread, roughly 40–70 words. A first follow-up may be considered after about a week without a reply. Three attempts are not a target; respect explicit refusals or requests to stop contact.
+
+My materials (provide whatever is available):
+Draft or goal:
+Degree, institution and graduation date:
+Research project, personal contributions and known results:
+Papers and accurate status:
+Professor, research area, official page or recruitment instructions:
+Intended start term:
+Will a CV be attached?

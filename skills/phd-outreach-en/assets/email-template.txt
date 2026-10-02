@@ -1,0 +1,33 @@
+PhD inquiry email skeleton
+Square brackets mark information to fill in. Remove irrelevant parts; not every slot needs text.
+
+Subject: PhD inquiry — [Intended start term] — [Research area]
+
+Dear Professor [Surname],
+
+I am a [Degree] student in [Field] at [University, Country], expecting to graduate in [Month Year]. I am writing to inquire about PhD opportunities in [Research area] for [Intended start term].
+
+In my work on [Research question or project], I [Specific personal action and method]. I also [Second personal contribution, if useful]. [Supported result or research capability demonstrated, if available.] This experience has prepared me to contribute to research on [Relevant question or area].
+
+Are you considering new PhD students for [Intended start term]? I would welcome a brief conversation to discuss my research experience and whether it could be useful to your group. Thank you for your time.
+
+Best regards,
+[Full name]
+
+Optional sentences:
+1. If GPA is useful and the scale is clear, add to paragraph one: My GPA is [GPA]/[Scale].
+2. If the manuscript status is known and relevant, add to paragraph two: This work is [published / accepted / under review / available as a preprint]. Select the accurate status.
+3. If attaching the CV is confirmed, add to paragraph three: I have attached my CV for further details.
+4. If supported by facts, replace the last sentence in paragraph two with: My experience with [Method or task] could be relevant to your work on [Verified research question]. Do not repeat the professor's papers.
+5. If the applicant wants a referral, consider: If another colleague may be a better fit, I would appreciate any suggestion.
+
+Follow-up skeleton (reply in the original thread):
+
+Dear Professor [Surname],
+
+I wanted to follow up on my email of [Date] about PhD opportunities for [Intended start term]. [One useful research update, only if available.] If you are considering new students, I would appreciate the opportunity to briefly discuss my research experience.
+
+Thank you for your time.
+
+Best regards,
+[Full name]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PhD Outreach"
+  short_description: "Draft concise PhD inquiries from actual research contributions"
+  default_prompt: "Use $phd-outreach-en to draft a concise, specific and credible PhD inquiry email from my materials."

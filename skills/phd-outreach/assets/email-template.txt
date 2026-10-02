@@ -1,0 +1,33 @@
+博士套磁信英文骨架
+方括号为待填信息；按实际情况删除不适用内容，不需要填满所有位置。
+
+Subject: PhD inquiry — [Intended start term] — [Research area]
+
+Dear Professor [Surname],
+
+I am a [Degree] student in [Field] at [University, Country], expecting to graduate in [Month Year]. I am writing to inquire about PhD opportunities in [Research area] for [Intended start term].
+
+In my work on [Research question or project], I [Specific personal action and method]. I also [Second personal contribution, if useful]. [Supported result or research capability demonstrated, if available.] This experience has prepared me to contribute to research on [Relevant question or area].
+
+Are you considering new PhD students for [Intended start term]? I would welcome a brief conversation to discuss my research experience and whether it could be useful to your group. Thank you for your time.
+
+Best regards,
+[Full name]
+
+可选句：
+1. GPA 确实有说服力且量表明确时，可在第一段加入：My GPA is [GPA]/[Scale].
+2. 论文状态明确且有用时，可在第二段加入：This work is [published / accepted / under review / available as a preprint]. 按事实选择，不混用。
+3. 已确认会附 CV 时，可在第三段加入：I have attached my CV for further details.
+4. 有事实支持时，可用一句具体连接替换第二段最后一句：My experience with [Method or task] could be relevant to your work on [Verified research question]. 不必复述教授论文。
+5. 用户希望转介时，可简短加入：If another colleague may be a better fit, I would appreciate any suggestion.
+
+Follow-up 骨架（在原邮件线程回复）：
+
+Dear Professor [Surname],
+
+I wanted to follow up on my email of [Date] about PhD opportunities for [Intended start term]. [One useful research update, only if available.] If you are considering new students, I would appreciate the opportunity to briefly discuss my research experience.
+
+Thank you for your time.
+
+Best regards,
+[Full name]

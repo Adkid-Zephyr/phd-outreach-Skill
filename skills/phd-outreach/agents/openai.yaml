@@ -1,0 +1,4 @@
+interface:
+  display_name: "博士套磁信"
+  short_description: "提炼真实科研贡献，快速起草、压缩和修改博士套磁信及跟进邮件"
+  default_prompt: "请使用 $phd-outreach，根据我的材料改写一封简洁、具体、可信的博士套磁信。"
